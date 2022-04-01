@@ -1,1 +1,0 @@
-‘# script print working directory’
